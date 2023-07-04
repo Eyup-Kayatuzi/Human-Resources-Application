@@ -1,0 +1,41 @@
+﻿@using InsanKaynaklari.MVC.Areas.Personnel.ViewModels;
+@model List<ListExpenseVM>
+
+@{
+    ViewData["Title"] = "ListExpenses";
+}
+<div class="card border-0 shadow-lg bg-light my-5">
+    <div class="card-body px-3">
+        <div class="row">
+            <div class="col-12">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Approval Status</th>
+                            <th>Request Date</th>
+                            <th>Reply Date</th>
+                            <th>Expense Amount</th>
+                            <th>Currency</th>
+                            <th>Expense Type</th>
+                            <th>Folder Path</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var expense in Model)
+                        {
+                            <tr>
+                                <td>@expense.ApprovalStatus</td>
+                                <td>@expense.RequestDate</td>
+                                <td>@expense.ReplyDate</td>
+                                <td>@expense.ExpenseAmount</td>
+                                <td>@expense.Currency</td>
+                                <td>@expense.ExpenseType</td>
+                                <td><a href="~/images/@expense.FolderPath">Dosyaya Ulaşmak için tıkla</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

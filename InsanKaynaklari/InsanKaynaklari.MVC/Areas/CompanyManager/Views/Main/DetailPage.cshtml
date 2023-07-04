@@ -1,0 +1,32 @@
+﻿@using InsanKaynaklari.MVC.Areas.CompanyManager.ViewModels;
+@model DetailPageVM
+
+
+<div class="card o-hidden border-0 shadow-lg my-5">
+	<div class="card-body p-0">
+		<div class="row">
+			<div class="col-lg-5 d-none d-lg-flex flex-column justify-content-center align-items-center">
+				<img class="img-fluid" style="width:400px; height:500px" src="~/images/@Model.PicturePath">
+			</div>
+			<div class="col-lg-7">
+				<div class="p-5">
+					<h3 class="card-title">@Model.FirstName @Model.SecondName @Model.LastName @Model.SecondLastName</h3>
+					<p class="card-text"><b>Email:</b> @Model.Email</p>
+					<p class="card-text"><b>Phone Number:</b> @Model.PhoneNumber</p>
+					<p class="card-text"><b>Profession:</b> @Model.Profession</p>
+					<p class="card-text"><b>Department:</b> @Model.Department</p>
+					<p class="card-text"><b>Address:</b> @Model.Address</p>
+					<p class="card-text"><b>Citizenship ID:</b> @Model.Tc</p>
+					<p class="card-text"><b>Start Date of Job:</b> @Model.StartDateOfJob.ToShortDateString()</p>
+					<p class="card-text"><b>Leave Date of Job:</b> @Model.LeaveDateOfJob.ToShortDateString()</p>
+					<p class="card-text"><b>Activity Status:</b> @Model.IsActive</p>
+					<p class="card-text"><b>Company Information:</b> @Model.CompanyInfo</p>
+					<p class="card-text"><b>Date of Birth:</b> @Model.DateOfBirth.ToShortDateString()</p>
+					<p class="card-text"><b>Place of Birth:</b> @Model.BirthPlace</p>
+					<p class="card-text"><b>Gender:</b> @Model.Gender</p>					
+					<a class="btn btn-primary" asp-area="CompanyManager" asp-controller="Main" asp-action="HomePage">Home Page</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

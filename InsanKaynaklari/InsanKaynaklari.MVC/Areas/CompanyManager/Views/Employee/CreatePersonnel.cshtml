@@ -1,0 +1,149 @@
+﻿@model InsanKaynaklari.MVC.Areas.CompanyManager.ViewModels.CreatePersonnelViewModel
+
+
+<div class="card border-0 shadow-lg bg-light my-5">
+    <div class="card-body px-3">
+        <form asp-action="CreatePersonnel" enctype="multipart/form-data" method="post" class="mt-4">
+            <div class="row">
+                <div class="col-4">
+                    <div class="form-group">
+                        <label asp-for="FirstName">First Name</label>
+                        <input type="text" asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="SecondName">SecondName</label>
+                        <input type="text" asp-for="SecondName" class="form-control" />
+                        <span asp-validation-for="SecondName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="LastName">LastName</label>
+                        <input type="text" asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+
+                    <div class="form-group">
+                        <label asp-for="SecondLastName">SecondLastName</label>
+                        <input type="text" asp-for="SecondLastName" class="form-control" />
+                        <span asp-validation-for="SecondLastName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input type="email" asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="PhoneNumber">PhoneNumber</label>
+                        <input type="tel" asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group">
+                        <label asp-for="Department">Department</label>
+                        <input type="text" asp-for="Department" class="form-control" />
+                        <span asp-validation-for="Department" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="DateOfBirth">Date of Birth</label>
+                        <input type="date" asp-for="DateOfBirth" class="form-control" />
+                        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="BirthPlace">Birth Place</label>
+                        <input type="text" asp-for="BirthPlace" class="form-control" />
+                        <span asp-validation-for="BirthPlace" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group">
+                        <label asp-for="Tc">TC</label>
+                        <input type="text" asp-for="Tc" pattern="[0-9]{11}" class="form-control" />
+                        <span asp-validation-for="Tc" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="StartDateOfJob">Start Date of Job</label>
+                        <input type="date" asp-for="StartDateOfJob" class="form-control" />
+                        <span asp-validation-for="StartDateOfJob" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="LeaveDateOfJob">Leave Date of Job</label>
+                        <input type="date" asp-for="LeaveDateOfJob" class="form-control" />
+                        <span asp-validation-for="LeaveDateOfJob" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+
+                    <div class="form-group">
+                        <label asp-for="IsActive">Is Active</label>
+                        <select asp-for="IsActive" class="form-control">
+                            <option value="true">Active</option>
+                            <option value="false">Inactive</option>
+                        </select>
+                        <span asp-validation-for="IsActive" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="CompanyInfo">Company Info</label>
+                        <input type="text" asp-for="CompanyInfo" class="form-control" />
+                        <span asp-validation-for="CompanyInfo" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Profession">Profession</label>
+                        <input type="text" asp-for="Profession" class="form-control" />
+                        <span asp-validation-for="Profession" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-4">
+
+                    <div class="form-group">
+                        <label asp-for="Address">Address</label>
+                        <input type="text" asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Salary">Salary</label>
+                        <input type="text" asp-for="Salary" class="form-control" />
+                        <span asp-validation-for="Salary" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Gender">Gender</label>
+                        <select asp-for="Gender" class="form-control">
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                        <span asp-validation-for="Gender" class="text-danger"></span>
+
+                    </div>
+                </div>
+                <div class="form-group">
+
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <li>@error.ErrorMessage</li>
+                            }
+                        </ul>
+                    </div>
+                }
+        </form>
+    </div>
+</div>

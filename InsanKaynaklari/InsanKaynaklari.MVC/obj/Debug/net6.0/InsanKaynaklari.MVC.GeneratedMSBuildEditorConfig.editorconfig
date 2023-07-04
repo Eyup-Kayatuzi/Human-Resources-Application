@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InsanKaynaklari.MVC
+build_property.RootNamespace = InsanKaynaklari.MVC
+build_property.ProjectDir = C:\Users\eypky\OneDrive\Desktop\InsanKaynaklari\InsanKaynaklari.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eypky\OneDrive\Desktop\InsanKaynaklari\InsanKaynaklari.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Employee/CreatePersonnel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcRW1wbG95ZWVcQ3JlYXRlUGVyc29ubmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Employee/ListEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcRW1wbG95ZWVcTGlzdEVtcGxveWVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Employee/ListOfExpenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcRW1wbG95ZWVcTGlzdE9mRXhwZW5zZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Main/DetailPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcTWFpblxEZXRhaWxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Main/EditPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcTWFpblxFZGl0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Main/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcTWFpblxIb21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Main/AddExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXE1haW5cQWRkRXhwZW5zZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Main/DetailPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXE1haW5cRGV0YWlsUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Main/EditPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXE1haW5cRWRpdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Main/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXE1haW5cSG9tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Main/ListExpenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXE1haW5cTGlzdEV4cGVuc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/UserAuthentication/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/UserAuthentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/UserAuthentication/PasswordChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXFBhc3N3b3JkQ2hhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/CompanyManager/Views/Shared/_companyManagerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29tcGFueU1hbmFnZXJcVmlld3NcU2hhcmVkXF9jb21wYW55TWFuYWdlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-wb6jpwaoiy
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Areas/Personnel/Views/Shared/_PersonelLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVyc29ubmVsXFZpZXdzXFNoYXJlZFxfUGVyc29uZWxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-17a3s4dvq7
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Shared/_IndexLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmRleExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-e9lk8ldzpc
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2uhh60dgij
+
+[C:/Users/eypky/OneDrive/Desktop/InsanKaynaklari/InsanKaynaklari.MVC/Views/Shared/_UnsignInLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VbnNpZ25JbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-sqn2288wlr

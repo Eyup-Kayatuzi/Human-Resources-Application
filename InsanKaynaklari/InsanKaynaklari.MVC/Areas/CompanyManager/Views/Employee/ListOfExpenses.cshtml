@@ -1,0 +1,99 @@
+﻿@using InsanKaynaklari.Domain.Enums;
+@using InsanKaynaklari.MVC.Areas.CompanyManager.ViewModels;
+@model List<ListOfExpensesVM>
+
+@{
+    ViewData["Title"] = "ListOfExpenses";
+}
+
+
+
+<div class="card border-0 shadow-lg bg-light my-5">
+    <div class="card-body px-3">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th style="width: 150px;">Approval Status</th>
+                    <th>Department</th>
+                    <th>Expense Amount</th>
+                    <th>Expense Type</th>
+                    <th>FullName</th>
+                    <th>Folder Path</th>
+                    <th>Reply Date</th>
+                    <th>Request Date</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var expense in Model)
+                {
+                    <form asp-action="ListOfExpenses" method="post">
+                    <tr>
+                        <td>
+                            <select name="ApprovalStatus" class="form-control">
+                                    @foreach (ApprovalStatus status in Enum.GetValues(typeof(ApprovalStatus)))
+                                    {
+                                    
+                                        if (status == expense.ApprovalStatus)
+                                        {
+                                            <option value="@status" selected>@status</option>
+                                        }
+                                        else
+                                        {
+                                        <option value="@status">@status</option>
+                                        }
+                                    }
+                                
+                                    
+                            </select>
+                        </td>
+                        <td>
+                                @expense.Department
+                        </td>
+                        <td>
+                                @{
+                                    string currencySymbol;
+                                    switch (expense.Currency)
+                                    {
+                                        case Currency.TL:
+                                            currencySymbol = "₺";
+                                            break;
+                                        case Currency.EUR:
+                                            currencySymbol = "€";
+                                            break;
+                                        case Currency.USD:
+                                            currencySymbol = "$";
+                                            break;
+                                        default:
+                                            currencySymbol = "";
+                                            break;
+                                    }
+                                }
+                                @(expense.ExpenseAmount + " " + currencySymbol)
+                        </td>
+                        <td>@expense.ExpenseType</td>
+                        <td>@(expense.FirstName + expense.SecondName + " " + expense.LastName + expense.SecondLastName)</td>
+                        <td><a href="~/images/@expense.FolderPath">Dosyaya Ulaşmak için tıkla</a></td>
+                        <td>@expense.ReplyDate</td>
+                        <td>@expense.RequestDate</td>
+                        <td>
+                            <button type="submit" asp-route-id="@expense.ExpensesId" class="btn btn-primary">Onayla</button>
+                        </td>
+                    </tr>
+                    </form>
+                }
+            </tbody>
+        </table>
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="alert alert-danger">
+                <ul>
+                    @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                    {
+                        <li>@error.ErrorMessage</li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+</div>

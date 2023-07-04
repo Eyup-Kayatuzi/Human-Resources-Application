@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\InsanKaynaklari.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InsanKaynaklari.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\detail.html",
+      "PackagePath": "staticwebassets\\detail.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\feature.html",
+      "PackagePath": "staticwebassets\\feature.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\071ce9fc-a003-4426-a73d-035807889608-20180129_002.jpg",
+      "PackagePath": "staticwebassets\\images\\071ce9fc-a003-4426-a73d-035807889608-20180129_002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\0929f234-e60c-400a-a941-c48c22d8cca1-Screenshot 2023-06-05 192600.png",
+      "PackagePath": "staticwebassets\\images\\0929f234-e60c-400a-a941-c48c22d8cca1-Screenshot 2023-06-05 192600.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\0e4f370b-3a3c-4222-a983-f16ff73fe1d3-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\0e4f370b-3a3c-4222-a983-f16ff73fe1d3-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\0f01b0d5-7777-42a9-b7a3-51807f763f2d-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\0f01b0d5-7777-42a9-b7a3-51807f763f2d-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\11c6ff29-9ad9-40a3-a887-95f780ce24d5-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\11c6ff29-9ad9-40a3-a887-95f780ce24d5-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\129d9ab1-7695-4f36-968b-5d5ac8636abc-Screenshot 2023-06-05 193746.png",
+      "PackagePath": "staticwebassets\\images\\129d9ab1-7695-4f36-968b-5d5ac8636abc-Screenshot 2023-06-05 193746.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\12b3cb16-fe0a-4297-b86e-7c33a9e56cb3-Screenshot 2023-06-17 233830.png",
+      "PackagePath": "staticwebassets\\images\\12b3cb16-fe0a-4297-b86e-7c33a9e56cb3-Screenshot 2023-06-17 233830.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\142ef028-8ff1-4340-9e3d-dbf7744f79e1-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf",
+      "PackagePath": "staticwebassets\\images\\142ef028-8ff1-4340-9e3d-dbf7744f79e1-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\17081951-789c-4bf4-8c08-1928e623bea5-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\17081951-789c-4bf4-8c08-1928e623bea5-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\1cbcabe7-e37a-4657-883b-9929e4c5fcd1-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\1cbcabe7-e37a-4657-883b-9929e4c5fcd1-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\20180125_001_1_.jpg",
+      "PackagePath": "staticwebassets\\images\\20180125_001_1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\20180129_002.jpg",
+      "PackagePath": "staticwebassets\\images\\20180129_002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\2b55a5f8-96f7-42ef-af46-351fb4eec70d-owl-50267__480.jpg",
+      "PackagePath": "staticwebassets\\images\\2b55a5f8-96f7-42ef-af46-351fb4eec70d-owl-50267__480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\2c501924-f5c4-4fe8-8a86-2db7ab9e45f9-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\2c501924-f5c4-4fe8-8a86-2db7ab9e45f9-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\2fab7dc4-b339-4d55-804f-d8a5d191a9ee-1.jpg",
+      "PackagePath": "staticwebassets\\images\\2fab7dc4-b339-4d55-804f-d8a5d191a9ee-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\37c0f683-48cd-43cd-bebd-c22e96fd813c-Screenshot 2023-06-05 192600.png",
+      "PackagePath": "staticwebassets\\images\\37c0f683-48cd-43cd-bebd-c22e96fd813c-Screenshot 2023-06-05 192600.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\39fb3c8a-8ae4-49a5-ae0d-5c3201154694-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\39fb3c8a-8ae4-49a5-ae0d-5c3201154694-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\3b121203-9400-4fa9-96d8-f214ad098e2f-Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg",
+      "PackagePath": "staticwebassets\\images\\3b121203-9400-4fa9-96d8-f214ad098e2f-Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\42d357eb-95b0-4316-8b84-8d87c51a9ec8-king-beef-burger-menu.png",
+      "PackagePath": "staticwebassets\\images\\42d357eb-95b0-4316-8b84-8d87c51a9ec8-king-beef-burger-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\474dcaf6-6a36-424d-8035-332d4df00327-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\474dcaf6-6a36-424d-8035-332d4df00327-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\4ad66dc3-dd96-4790-94f5-99905449106b-Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg",
+      "PackagePath": "staticwebassets\\images\\4ad66dc3-dd96-4790-94f5-99905449106b-Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\4e86c773-286d-4737-9a3d-edd352241fd5-owl-50267__480.jpg",
+      "PackagePath": "staticwebassets\\images\\4e86c773-286d-4737-9a3d-edd352241fd5-owl-50267__480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\4f98ab04-39d4-41d2-8b66-60787cfd1870-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\4f98ab04-39d4-41d2-8b66-60787cfd1870-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\570e2809-84ae-42d7-ae96-039803febb1f-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\570e2809-84ae-42d7-ae96-039803febb1f-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\59a0649a-d2a8-4179-babd-b8c985e2a4f7-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\59a0649a-d2a8-4179-babd-b8c985e2a4f7-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\59d0deb5-197f-4e04-932a-264cf5a210be-Screenshot 2023-06-05 192600.png",
+      "PackagePath": "staticwebassets\\images\\59d0deb5-197f-4e04-932a-264cf5a210be-Screenshot 2023-06-05 192600.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\5a3b1f95-dce8-4c6f-9bd6-db7d0f75be45-20180129_002.jpg",
+      "PackagePath": "staticwebassets\\images\\5a3b1f95-dce8-4c6f-9bd6-db7d0f75be45-20180129_002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\6137bfcf-9a9a-4dd6-aecd-5111640347ad-EyupKayatuzi.pdf",
+      "PackagePath": "staticwebassets\\images\\6137bfcf-9a9a-4dd6-aecd-5111640347ad-EyupKayatuzi.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\623af84a-155b-4da2-8827-bbaaa1310621-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\623af84a-155b-4da2-8827-bbaaa1310621-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\6e928051-bf7a-4a5a-a19a-ff39b07d0ce5-EyupKayatuzi.pdf",
+      "PackagePath": "staticwebassets\\images\\6e928051-bf7a-4a5a-a19a-ff39b07d0ce5-EyupKayatuzi.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\71a2eb77-5010-41d2-832d-c84e3b00e5a3-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\71a2eb77-5010-41d2-832d-c84e3b00e5a3-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\78cc236f-291f-4a48-8972-26e897e4bf84-king-beef-burger-menu.png",
+      "PackagePath": "staticwebassets\\images\\78cc236f-291f-4a48-8972-26e897e4bf84-king-beef-burger-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\7d106b90-ddef-45d6-984b-214d4afd94ef-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\7d106b90-ddef-45d6-984b-214d4afd94ef-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\7f93ec5a-8667-44b3-bf47-f54565d79cb0-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\7f93ec5a-8667-44b3-bf47-f54565d79cb0-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\89e0a828-1ce4-4fee-96f1-71c2898fa17c-Screenshot 2023-06-05 193954.png",
+      "PackagePath": "staticwebassets\\images\\89e0a828-1ce4-4fee-96f1-71c2898fa17c-Screenshot 2023-06-05 193954.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\90c0ff26-def1-42fc-a7ec-73a5d8749448-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\90c0ff26-def1-42fc-a7ec-73a5d8749448-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\9c28d2f5-a64b-406a-92c9-299a97654a9e-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\9c28d2f5-a64b-406a-92c9-299a97654a9e-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\9df7583f-244f-4157-b0db-7de442f78afe-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf",
+      "PackagePath": "staticwebassets\\images\\9df7583f-244f-4157-b0db-7de442f78afe-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\a6585e64-b5c7-4add-b85f-cdf4ac80177b-king-beef-burger-menu.png",
+      "PackagePath": "staticwebassets\\images\\a6585e64-b5c7-4add-b85f-cdf4ac80177b-king-beef-burger-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\a869ef58-7d80-444b-876d-d5dac8841087-Screenshot 2023-06-05 192600.png",
+      "PackagePath": "staticwebassets\\images\\a869ef58-7d80-444b-876d-d5dac8841087-Screenshot 2023-06-05 192600.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\aa04521d-599f-433f-8010-00aba197517c-20180129_002.jpg",
+      "PackagePath": "staticwebassets\\images\\aa04521d-599f-433f-8010-00aba197517c-20180129_002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\af14f82a-6ccf-4307-9bfc-fa98b6abf830-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\af14f82a-6ccf-4307-9bfc-fa98b6abf830-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\b4b4f90e-aef3-47bc-a5ac-6d2c41e30933-L1 - Penalty Calculation - Assignment - v3.1.pdf",
+      "PackagePath": "staticwebassets\\images\\b4b4f90e-aef3-47bc-a5ac-6d2c41e30933-L1 - Penalty Calculation - Assignment - v3.1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\b5eada00-5d77-40df-b934-b634865a70d2-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\b5eada00-5d77-40df-b934-b634865a70d2-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\b616347b-fb96-459a-851a-7685d8775a41-king-beef-burger-menu.png",
+      "PackagePath": "staticwebassets\\images\\b616347b-fb96-459a-851a-7685d8775a41-king-beef-burger-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\bcaa0bee-cfc9-4f13-a4b6-afc921ba004a-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf",
+      "PackagePath": "staticwebassets\\images\\bcaa0bee-cfc9-4f13-a4b6-afc921ba004a-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\bcd0091c-5e1e-4fef-a4f4-ca06b57d5361-20180129_002.jpg",
+      "PackagePath": "staticwebassets\\images\\bcd0091c-5e1e-4fef-a4f4-ca06b57d5361-20180129_002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\bfec0dfb-afcd-435b-92b1-bfab56bc6119-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\bfec0dfb-afcd-435b-92b1-bfab56bc6119-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\c1983212-d91c-4805-949c-70cb34c31415-Screenshot 2023-06-17 233830.png",
+      "PackagePath": "staticwebassets\\images\\c1983212-d91c-4805-949c-70cb34c31415-Screenshot 2023-06-17 233830.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\c1d1dfab-79dc-445f-9098-cce861295536-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf",
+      "PackagePath": "staticwebassets\\images\\c1d1dfab-79dc-445f-9098-cce861295536-yuksekogretim-kurulu-transkript-belgesi-sorgulama.pdf"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\cdcd2915-bd01-4ea5-94e6-3cb443863aef-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cdcd2915-bd01-4ea5-94e6-3cb443863aef-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\d60bc5e5-259e-43a3-b4a0-31719ec50010-Screenshot 2023-06-05 192600.png",
+      "PackagePath": "staticwebassets\\images\\d60bc5e5-259e-43a3-b4a0-31719ec50010-Screenshot 2023-06-05 192600.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\d7db5a4e-0cf5-47f7-b33f-56c04df92edb-Screenshot 2023-06-05 193954.png",
+      "PackagePath": "staticwebassets\\images\\d7db5a4e-0cf5-47f7-b33f-56c04df92edb-Screenshot 2023-06-05 193954.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\e0ceb514-e51c-4680-aa42-c04cbdd31f58-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\e0ceb514-e51c-4680-aa42-c04cbdd31f58-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\images\\fa694dcc-e470-4f83-b217-03ea8869efa3-DSC_4418 copy.jpg",
+      "PackagePath": "staticwebassets\\images\\fa694dcc-e470-4f83-b217-03ea8869efa3-DSC_4418 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\img\\vendor-9.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\price.html",
+      "PackagePath": "staticwebassets\\price.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\quote.html",
+      "PackagePath": "staticwebassets\\quote.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\service.html",
+      "PackagePath": "staticwebassets\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\startup-website-template.jpg",
+      "PackagePath": "staticwebassets\\startup-website-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\team.html",
+      "PackagePath": "staticwebassets\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\eypky\\OneDrive\\Desktop\\InsanKaynaklari\\InsanKaynaklari.MVC\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InsanKaynaklari.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InsanKaynaklari.MVC.props",
+      "PackagePath": "build\\InsanKaynaklari.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InsanKaynaklari.MVC.props",
+      "PackagePath": "buildMultiTargeting\\InsanKaynaklari.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InsanKaynaklari.MVC.props",
+      "PackagePath": "buildTransitive\\InsanKaynaklari.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

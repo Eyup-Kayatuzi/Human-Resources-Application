@@ -1,0 +1,25 @@
+﻿@using InsanKaynaklari.MVC.Areas.CompanyManager.ViewModels;
+@model MainPageVM
+
+
+<div class="card o-hidden border-0 shadow-lg my-5">
+<div class="card-body p-0">
+    <div class="row">
+        <div class="col-lg-5 d-none d-lg-flex flex-column justify-content-center align-items-center">
+            <img class="img-fluid" style="width:200px; height:200px" src="~/images/@Model.DisplayPhotoPath">
+        </div>
+        <div class="col-lg-7">
+            <div class="p-5">
+                <h3 class="card-title">@Model.FirstName @Model.SecondName @Model.LastName @Model.SecondLastName</h3>
+                <p class="card-text"><b>Email:</b> @Model.Email</p>
+                <p class="card-text"><b>Phone Number:</b> @Model.PhoneNumber</p>
+                <p class="card-text"><b>Profession:</b> @Model.Profession</p>
+                <p class="card-text"><b>Department:</b> @Model.Department</p>
+                <p class="card-text"><b>Address:</b> @Model.Address</p>
+                <a href="@Url.Action("EditPage", "Main", new { id = ViewBag.UserId })" class="btn btn-primary">Update</a>
+                <a href="@Url.Action("DetailPage", "Main", new { id = ViewBag.UserId })" class="btn btn-primary">Details</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\CompanyManager\Data\**" />
+    <Content Remove="Areas\CompanyManager\Data\**" />
+    <EmbeddedResource Remove="Areas\CompanyManager\Data\**" />
+    <None Remove="Areas\CompanyManager\Data\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InsanKaynaklari.Application\InsanKaynaklari.Application.csproj" />
+    <ProjectReference Include="..\InsanKaynaklari.Infrastructure\InsanKaynaklari.Infrastructure.csproj" />
+    <ProjectReference Include="..\InsanKaynaklari.Persistence\InsanKaynaklari.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\CompanyManager\Models\" />
+    <Folder Include="Areas\Personnel\Data\" />
+    <Folder Include="Areas\Personnel\Models\" />
+  </ItemGroup>
+
+</Project>

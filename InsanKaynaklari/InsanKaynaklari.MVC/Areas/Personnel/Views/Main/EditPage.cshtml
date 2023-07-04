@@ -1,0 +1,85 @@
+﻿@model InsanKaynaklari.MVC.Areas.Personnel.ViewModels.EditPageVM
+
+@{
+    ViewData["Title"] = "EditPage";
+}
+
+
+<div class="card o-hidden border-0 shadow-lg my-5">
+    <div class="card-body p-0">
+        <div class="row">
+            <div class="col-lg-5 d-none d-lg-flex flex-column justify-content-center align-items-center">
+                <img id="profileImage" class="img-fluid" style="width:200px; height:200px" src="~/images/@Model.PicturePath">
+            </div>
+            <div class="col-lg-7">
+                <div class="p-5">
+                    <form asp-action="EditPage" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Address" class="control-label fw-bold"></label>
+                            <input asp-for="Address" class="form-control" />
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PhoneNumber" class="control-label fw-bold"></label>
+                            <input asp-for="PhoneNumber" class="form-control" pattern="\d{11}" title="11 haneli bir telefon numarası giriniz" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <button id="mybtn" type="button" onclick="togglePhotoField()" class="btn btn-warning">Fotoğrafı değiştir</button>
+                            <input id="ForPhoto" style="display:none;" asp-for="NewPicturePath" class="form-control" onchange="handlePhotoSelection(event)" />
+                            <span asp-validation-for="NewPicturePath" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Save" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        function togglePhotoField() {
+            var x = document.getElementById("ForPhoto");
+            var button = document.getElementById("mybtn");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            }
+            else {
+                x.style.display = "none";
+                x.value = "";
+            }
+        }
+        function handlePhotoSelection(event) {
+            var selectedFile = event.target.files[0];
+            if (selectedFile.name.includes(".jpg") || selectedFile.name.includes(".png") || selectedFile.name.includes(".jpeg")) {
+                var formData = new FormData();
+                formData.append('newValue', selectedFile);
+
+                let url1 = "@Url.Action("GetPicturePath","Main")";
+
+                $.ajax({
+                    url: url1,
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (data) {
+                        document.getElementById("profileImage").src = document.location.origin + "/images/" + data
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+
+            }
+
+        }
+    </script>
+}
